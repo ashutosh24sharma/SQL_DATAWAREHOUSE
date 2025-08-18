@@ -37,7 +37,7 @@ This project involves:
 - **Notion** All-in-one tool for project management and organization.
 
   ## DATA FLOW OF EACH LAYER
-  ![Data Flow](docs/data_flow.png)
+  ![Data Flow](Docs/data_flow.png)
 
 ## 🚀 Project Requirements
 
