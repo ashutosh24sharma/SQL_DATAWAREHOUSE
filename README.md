@@ -36,6 +36,8 @@ This project involves:
 - **DrawIO** Design data architecture, models, flows, and diagrams.
 - **Notion** All-in-one tool for project management and organization.
 
+  ## DATA FLOW OF EACH LAYER
+  ![Data Flow](docs/data_flow.png)
 
 ## 🚀 Project Requirements
 
@@ -73,8 +75,6 @@ data-warehouse-project/
 │   └── gold/                  # Scripts for creating analytical models
 ├── tests/                     # Test scripts and quality files
 ├── README.md                  # Project overview and instructions
-├── LICENSE                    # License information for the repository
-├── .gitignore                 # Files and directories to be ignored by Git
 └── requirements.txt           # Dependencies and requirements for the project
 ```
 
